@@ -1,4 +1,4 @@
 ---
-title: Hi, I'm Diego. Welcome to my blog!
+title: Olá, eu sou o Diego. Bem-vindo ao meu blog de estudos!
 ---
 
